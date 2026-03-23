@@ -6,6 +6,8 @@ How JioCinema Scaled IPL Streaming to Millions Without Downtime:https://youtu.be
 
 Reducing Latency: https://medium.com/@utsavmadaan823/how-we-slashed-api-response-times-by-50-with-go-compiler-optimizations-3c2592c2d241
 
+https://nadh.in/blog/code-is-cheap/
+
                         
 Open Source Remote Startups:
 
