@@ -8,6 +8,40 @@ Reducing Latency: https://medium.com/@utsavmadaan823/how-we-slashed-api-response
 
 https://nadh.in/blog/code-is-cheap/
 
+YC W26 Remote Companies:
+
+| Company | CEO / CTO / Founder |
+|---|---|
+| Sparkles | Daniil Bekirov (CEO, Solo founder) |
+| Compresr | Ivan Zakazov (CEO), Oussama Gabouj (CTO) |
+| ramAIn | — |
+| Mendral | — |
+| Bubble Lab | — |
+| Crow | — |
+| Polymath Labs | — |
+| Jinba | Shoya Matsumori (CEO), Takuya Norisugi (COO) |
+| EigenPal | — |
+| Corvera | Chris (CEO), Dirk (CTO) |
+| Fed10 | — |
+| MouseCat | — |
+| Arzule | — |
+| Luel | William Namgyal (CEO), Inigo (Co-founder) |
+| Byteport | Jayram Palamadai (CEO, Solo founder) |
+| Shofo | — |
+| Chamber | — |
+| Cumulus Labs | — |
+| Ishiki Labs | — |
+| Skillsync | — |
+| Verdex | — |
+| Pollinate | — |
+| Moda | — |
+| AutoSitu | — |
+| Caretta | — |
+| CodeWisp | Elvin Fu (CEO, Solo founder) |
+| RC Paper Co. (Cardboard) | — |
+| Q2Q | — |
+| Sequence Markets | — |
+
                         
 Open Source Remote Startups:
 
