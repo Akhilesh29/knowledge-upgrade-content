@@ -8,6 +8,8 @@ Reducing Latency: https://medium.com/@utsavmadaan823/how-we-slashed-api-response
 
 https://nadh.in/blog/code-is-cheap/
 
+https://medium.com/groupon-eng/scaling-millions-of-geospatial-queries-per-minute-using-redis-7c05bcf6b4db
+
 YC W26 Remote Companies:
 
 | Company | CEO / CTO / Founder |
