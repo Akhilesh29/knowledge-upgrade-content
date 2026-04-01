@@ -18,6 +18,8 @@ https://medium.com/the-knowledge-hub/most-commonly-asked-system-design-interview
 
 https://redis.io/blog/guide-to-cache-optimization-strategies/
 
+https://github.com/e2b-dev/awesome-ai-agents
+
 YC W26 Remote Companies:
 
 | Company | CEO / CTO / Founder |
