@@ -20,6 +20,8 @@ https://redis.io/blog/guide-to-cache-optimization-strategies/
 
 https://github.com/e2b-dev/awesome-ai-agents
 
+https://github.com/hmacr/dice-db
+
 YC W26 Remote Companies:
 
 | Company | CEO / CTO / Founder |
