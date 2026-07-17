@@ -45,6 +45,8 @@ https://github.com/e2b-dev/awesome-ai-agents
 
 https://github.com/hmacr/dice-db
 
+https://medium.com/@shivambhadani_/introduction-to-rpc-in-go-building-rpc-client-and-server-with-golang-5794675e9a12
+
 YC W26 Remote Companies:
 
 | Company | CEO / CTO / Founder |
