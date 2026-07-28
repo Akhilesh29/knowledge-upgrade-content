@@ -14,6 +14,8 @@ blinkit darkstore hld: <img width="1180" height="1646" alt="blinkit_darkstore_hl
 
 https://www.reddit.com/r/developersIndia/comments/1f4tg43/please_rate_my_high_level_design_for/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
+https://www.bhupeshkumar.blog/blogs/100-rps-rate-limiter-might-allow-1000
+
 https://arpitbhayani.me/blogs/bloom-filters/
 
 phonepe and super.money upi differ:
