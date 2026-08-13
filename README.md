@@ -49,6 +49,8 @@ https://github.com/hmacr/dice-db
 
 https://medium.com/@shivambhadani_/introduction-to-rpc-in-go-building-rpc-client-and-server-with-golang-5794675e9a12
 
+https://lumenalta.com/insights/7-machine-learning-algorithms-for-recommendation-engines
+
 YC W26 Remote Companies:
 
 | Company | CEO / CTO / Founder |
