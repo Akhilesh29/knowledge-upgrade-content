@@ -16,11 +16,6 @@ https://www.bhupeshkumar.blog/blogs/100-rps-rate-limiter-might-allow-1000
 
 https://arpitbhayani.me/blogs/bloom-filters/
 
-phonepe and super.money upi differ:
-
-<img width="786" height="596" alt="Screenshot 2026-06-02 at 4 30 58 PM" src="https://github.com/user-attachments/assets/2864939c-c2fc-4b49-aa6f-6c4becf0e9d3" />
-
-
 https://medium.com/@eshwar.koride7/everything-about-elasticsearch-a8f36757457e
 
 https://tech.phonepe.com/engineering-agent-hub-how-phonepe-built-a-production-grade-internal-ai-platform/
