@@ -6,6 +6,8 @@ https://aws.amazon.com/blogs/database/how-zepto-scales-to-millions-of-orders-per
 
 X algo understanding : https://github.com/twitter/the-algorithm
 
+https://netflixtechblog.com/
+
 How JioCinema Scaled IPL Streaming to Millions Without Downtime:https://youtu.be/E1socIMswyc?si=uHMaLwA0oTWwGE0x
 
 blinkit system design hld : <img width="1230" height="780" alt="Screenshot 2026-05-29 at 12 40 30 PM" src="https://github.com/user-attachments/assets/aef635dd-91ef-494f-bb8c-a56f94b78078" />
